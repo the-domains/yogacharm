@@ -1,6 +1,6 @@
 name: yogacharm
 favicon: null
-layout_spectrum: 1
+layout_spectrum: 0.75392
 typography_spectrum: 0.8251629450824112
 title: yogacharm
 cta:
@@ -22,8 +22,8 @@ color:
     - '#f69e9a'
     - '#8b5b69'
     - '#392131'
-  brandStrength: 0.5749737513251603
+  brandStrength: 0.5625
   lightness: 0.871765079209581
-  saturation: 0.8084859831724316
-  rhythmicContrast: 0.9842079277150333
+  saturation: 0.1875
+  rhythmicContrast: 1
 purpose: []
