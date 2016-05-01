@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[yogacharm]]></title>
+        <description><![CDATA[yogacharm]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 01 May 2016 06:31:09 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Welcome to yogacharm! Yogacharm is a place for women to learn about yoga, get inspired, and share common interests! Please join for free!</p>]]></description>
+            <link>undefinedwelcome-to-yogacharm-yogacharm-is-a-place-for-women-to-lear/index.html</link>
+            <guid isPermaLink="false">9ab2535a-46aa-4a5d-b319-0a0e95ec9cd1</guid>
+            <pubDate>Sun, 01 May 2016 06:31:02 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
