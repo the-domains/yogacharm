@@ -1,0 +1,28 @@
+name: yogacharm
+favicon: null
+layout_spectrum: 0.46831484022550285
+typography_spectrum: 0.8251629450824112
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.5749737513251603
+  lightness: 0.871765079209581
+  saturation: 0.8084859831724316
+  rhythmicContrast: 0.9842079277150333
+purpose: []
